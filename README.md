@@ -1,16 +1,24 @@
-# workroom_automation_task
+# Workroom Automation Task
 
-A new Flutter project.
+This respository contains the task given by Workroom Automation for assesment. This app is a ToDo list which provides functionality of add, edit and delete the task. Shared Preference is use to store the data.
 
-## Getting Started
+Created using:- 
 
-This project is a starting point for a Flutter application.
+-Dart
 
-A few resources to get you started if this is your first Flutter project:
+-Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APK Link:- https://drive.google.com/file/d/1IyqVwkl5hALDwmyhfJS7TlKnoQcmu02O/view?usp=sharing
+
+# Screenshots of the project
+
+<img src="https://drive.google.com/uc?export=view&id=1_HOtHbaeKFhRka1XvUWM6rmAFSY3aLZz" alt="Image Alt Text" width="200" height="500">
+
+
+
+
+
+
+
+
